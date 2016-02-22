@@ -1,2 +1,3 @@
-# miBadger.Cache
-The Cache Component
+# Cache
+
+The Cache Component.
