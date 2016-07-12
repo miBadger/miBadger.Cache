@@ -5,15 +5,37 @@ The cache item class.
 ## Example(s)
 
 ```php
-// Get the key.
+<?php
+
+use miBadger\Cache\CacheItem;
+
+/**
+ * Returns the key for the current cache item.
+ */
 $cacheItem->getKey();
 
-// Get the value
+/**
+ * Retrieves the value of the item from the cache associated with this object's key.
+ */
 $cacheItem->get();
 
-// Check if the cache item is a hit.
+/**
+ * Confirms if the cache item lookup resulted in a cache hit.
+ */
 $cacheItem->isHit();
 
-// Set the value
+/**
+ * Sets the value represented by this cache item.
+ */
 $cacheItem->set($value);
+
+/**
+ * Sets the expiration time for this cache item.
+ */
+$cacheItem->expiresAt($expiration);
+
+/**
+ * Sets the expiration time for this cache item.
+ */
+$cacheItem->expiresAfter($time);
 ```
