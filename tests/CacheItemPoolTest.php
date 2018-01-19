@@ -10,12 +10,14 @@
 
 namespace miBadger\Cache;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * The cache item pool test class.
  *
  * @since 1.0.0
  */
-class CacheItemPoolTest extends \PHPUnit_Framework_TestCase
+class CacheItemPoolTest extends TestCase
 {
 	/** @var CacheItem The cache item pool. */
 	private $cacheItemPool;
