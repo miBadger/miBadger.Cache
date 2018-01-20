@@ -3,6 +3,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/miBadger/miBadger.Cache/badges/build.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Cache/build-status/master)
 [![Code Coverage](https://scrutinizer-ci.com/g/miBadger/miBadger.Cache/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Cache/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/miBadger/miBadger.Cache/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Cache/?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/72a70b6f-20c7-4f67-8947-9e78a3f610d4/mini.png)](https://insight.sensiolabs.com/projects/72a70b6f-20c7-4f67-8947-9e78a3f610d4)
 
 The Cache Component.
 
